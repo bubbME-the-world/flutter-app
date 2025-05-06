@@ -1,0 +1,2 @@
+/Users/rey/Work/Freelance/Bubbme/bubbme/android/app/.cxx/RelWithDebInfo/2tc1q1t6/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/rey/Work/Freelance/Bubbme/bubbme/android/app/.cxx/RelWithDebInfo/2tc1q1t6/armeabi-v7a/CMakeFiles/rebuild_cache.dir

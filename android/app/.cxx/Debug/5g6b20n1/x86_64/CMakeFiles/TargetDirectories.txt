@@ -1,0 +1,2 @@
+/Users/rey/Work/Freelance/Bubbme/bubbme/android/app/.cxx/Debug/5g6b20n1/x86_64/CMakeFiles/edit_cache.dir
+/Users/rey/Work/Freelance/Bubbme/bubbme/android/app/.cxx/Debug/5g6b20n1/x86_64/CMakeFiles/rebuild_cache.dir

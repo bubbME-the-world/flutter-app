@@ -1,0 +1,71 @@
+name: bubbme
+version: 1.0.0+6
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.3.2 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.8
+  get: ^4.6.6
+  dio: ^5.7.0
+  logger: ^2.4.0
+  freezed_annotation: ^2.4.4
+  get_it: ^8.0.2
+  dartz: 0.10.1
+  google_fonts: 6.2.1
+  retrofit: ^4.4.1
+  equatable: 2.0.5
+  step_progress_indicator: 1.0.2
+  flutter_svg: ^2.0.14
+  form_field_validator: 1.1.0
+  keyboard_actions: 4.2.0
+  pinput: ^5.0.0
+  get_storage: 2.1.1
+  shared_preferences: ^2.3.3
+  device_info_plus: ^11.1.1
+  scrollable_positioned_list: 0.3.8
+  carousel_slider: ^5.0.0
+  flutter_calendar_carousel: ^2.4.4
+  flutter_html: ^3.0.0
+  simple_html_css: ^5.0.0
+#  flutter_unity_widget: 2022.2.1
+  flutter_localizations: 
+    sdk: flutter
+  flutter: 
+    sdk: flutter
+  webview_flutter: ^4.10.0
+  webview_flutter_android: ^4.3.1
+#  webview_flutter_wkwebview: ^3.17.0
+  flutter_inappwebview: ^6.1.5
+  url_launcher: ^6.3.1
+  fluttertoast: ^8.2.12
+  audioplayers: ^6.4.0
+  flutter_launcher_icons: ^0.14.3
+
+dev_dependencies: 
+  flutter_lints: ^5.0.0
+  build_runner: ^2.4.13
+  json_serializable: ^6.8.0
+  retrofit_generator: ^9.1.4
+  freezed: ^2.5.7
+  flutter_test: 
+    sdk: flutter
+  change_app_package_name: ^1.4.0
+
+dependency_overrides: 
+  intl: any
+
+flutter: 
+  assets: 
+    - assets/images/
+    - assets/icons/
+    - assets/locales/
+    - assets/audios/
+  uses-material-design: true
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/ic_app.png"
+  min_sdk_android: 21
